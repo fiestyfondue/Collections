@@ -50,7 +50,7 @@ namespace Collections
             Console.WriteLine("Iterating Dict");
             foreach (var element in dictionary)
             {
-
+                Console.WriteLine(dictionary);
             }
         }
     }
